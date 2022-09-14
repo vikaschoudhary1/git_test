@@ -1,2 +1,6 @@
 Hello, this is vikas. 
 This is a new message, just for the sake of editing the doc. 
+This is my third or fourth day using git on my laptop.
+I am very grateful that I have been able to take advantage of The Odin Project and learn about so many tools
+in such a short length of time. 
+Thank you Odin Project and every person behind it. 
